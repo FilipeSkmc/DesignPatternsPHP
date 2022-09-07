@@ -13,6 +13,6 @@ class Viking extends Character
 
     public function fight(): string
     {
-        return "Sou VIKING, guerreiro forte e lento";
+        return "Sou VIKING, guerreiro forte e lento.";
     }
 }

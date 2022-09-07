@@ -13,6 +13,6 @@ class Thief extends Character
 
     public function fight(): string
     {
-        return "Eu sou THIEF, ataco na sudina";
+        return "Eu sou THIEF, ataco na sudina.";
     }
 }

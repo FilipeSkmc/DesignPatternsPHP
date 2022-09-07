@@ -13,6 +13,6 @@ class Queen extends Character
 
     public function fight(): string
     {
-        return "Eu sou QUEEN, sou agil e inteligente";
+        return "Eu sou QUEEN, sou agil e inteligente.";
     }
 }
