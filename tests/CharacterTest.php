@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-use Design\Classes\Character;
 use Design\Classes\King;
 use Design\Classes\Queen;
 use Design\Classes\Thief;
