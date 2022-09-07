@@ -13,6 +13,6 @@ class King extends Character
 
     public function fight(): string
     {
-        return "Eu sou KING, agil e mortal <br>";
+        return "Eu sou KING, agil e mortal";
     }
 }

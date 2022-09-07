@@ -6,6 +6,6 @@ class BowAndArrowBehavior implements WeaponBehavior
 {
     public function useWeapon(): string
     {
-        return "Mira o ARCO e ATIRA. <br>";
+        return "Mira o ARCO e ATIRA.";
     }
 }
