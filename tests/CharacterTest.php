@@ -2,14 +2,8 @@
 
 declare(strict_types=1);
 
-use Design\Classes\King;
-use Design\Classes\Queen;
-use Design\Classes\Thief;
-use Design\Classes\Viking;
-use Design\Weapons\AxeBehavior;
-use Design\Weapons\BowAndArrowBehavior;
-use Design\Weapons\KnifeBehavior;
-use Design\Weapons\SwordBehavior;
+use Design\Classes\{King, Queen, Thief, Viking};
+use Design\Weapons\{AxeBehavior, BowAndArrowBehavior, KnifeBehavior, SwordBehavior};
 use PHPUnit\Framework\TestCase;
 
 final class CharacterTest extends TestCase
