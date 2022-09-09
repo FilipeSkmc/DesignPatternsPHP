@@ -3,7 +3,6 @@
 namespace Design\Interfaces;
 
 use Design\Interfaces\Observer;
-use phpDocumentor\Reflection\Types\Boolean;
 
 interface Subject
 {
