@@ -2,9 +2,7 @@
 
 declare(strict_types=1);
 
-use Design\Classes\NowConditionsDisplay;
-use Design\Classes\TemperatureFarenKelvinDisplay;
-use Design\Classes\WeatherData;
+use Design\Classes\{NowConditionsDisplay, TemperatureFarenKelvinDisplay, WeatherData};
 use PHPUnit\Framework\TestCase;
 
 final class WeatherDataTest extends TestCase

@@ -2,8 +2,7 @@
 
 namespace Design\Classes;
 
-use Design\Interfaces\Observer;
-use Design\Interfaces\Subject;
+use Design\Interfaces\{Observer, Subject};
 
 class WeatherData implements Subject
 {

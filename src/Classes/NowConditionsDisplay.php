@@ -2,9 +2,7 @@
 
 namespace Design\Classes;
 
-use Design\Interfaces\DisplayElement;
-use Design\Interfaces\Observer;
-use Design\Interfaces\Subject;
+use Design\Interfaces\{DisplayElement, Observer, Subject};
 
 class NowConditionsDisplay implements Observer, DisplayElement
 {
