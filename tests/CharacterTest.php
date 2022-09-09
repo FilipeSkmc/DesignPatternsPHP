@@ -6,10 +6,10 @@ use Design\Classes\King;
 use Design\Classes\Queen;
 use Design\Classes\Thief;
 use Design\Classes\Viking;
-use Design\Interfaces\AxeBehavior;
-use Design\Interfaces\BowAndArrowBehavior;
-use Design\Interfaces\KnifeBehavior;
-use Design\Interfaces\SwordBehavior;
+use Design\Weapons\AxeBehavior;
+use Design\Weapons\BowAndArrowBehavior;
+use Design\Weapons\KnifeBehavior;
+use Design\Weapons\SwordBehavior;
 use PHPUnit\Framework\TestCase;
 
 final class CharacterTest extends TestCase

@@ -2,7 +2,7 @@
 
 namespace Design\Classes;
 
-use Design\Interfaces\WeaponBehavior;
+use Design\Weapons\WeaponBehavior;
 
 abstract class Character
 {

@@ -2,7 +2,7 @@
 
 namespace Design\Classes;
 
-use Design\Interfaces\SwordBehavior;
+use Design\Weapons\SwordBehavior;
 
 class King extends Character
 {

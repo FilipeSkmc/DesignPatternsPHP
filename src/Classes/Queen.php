@@ -2,7 +2,7 @@
 
 namespace Design\Classes;
 
-use Design\Interfaces\BowAndArrowBehavior;
+use Design\Weapons\BowAndArrowBehavior;
 
 class Queen extends Character
 {

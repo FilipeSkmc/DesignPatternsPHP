@@ -1,6 +1,6 @@
 <?php
 
-namespace Design\Interfaces;
+namespace Design\Weapons;
 
 interface WeaponBehavior
 {

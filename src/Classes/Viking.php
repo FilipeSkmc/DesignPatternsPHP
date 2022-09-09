@@ -2,7 +2,7 @@
 
 namespace Design\Classes;
 
-use Design\Interfaces\AxeBehavior;
+use Design\Weapons\AxeBehavior;
 
 class Viking extends Character
 {

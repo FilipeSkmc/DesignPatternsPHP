@@ -2,7 +2,7 @@
 
 namespace Design\Classes;
 
-use Design\Interfaces\KnifeBehavior;
+use Design\Weapons\KnifeBehavior;
 
 class Thief extends Character
 {
