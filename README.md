@@ -4,3 +4,4 @@ Cada Branch é relacionada a um padrão de projeto diferente.
 
 * strategy
 * observer
+* decorator 
